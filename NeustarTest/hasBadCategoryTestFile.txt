@@ -1,0 +1,11 @@
+PERSON Bob Jones
+PLACE Washington
+PERSON Mary
+COMPUTER Mac
+PERSON Bob Jones
+OTHER Tree
+ANIMAL Dog
+BAD-CATEGORY One
+PLACE Texas
+FOOD Steak
+ANIMAL Cat
